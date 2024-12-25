@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🛠 I'm current working as a Software Engineer at Synesis IT Limited. Right now, I'm working on developing video conferencing solutions. 
+🛠 I'm current working as a Software Engineer at Synesis IT Limited. My work domain revolves around developing video conferencing solutions. 
 
 🔎 I am open for collaborative research work.
  
