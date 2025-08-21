@@ -1,14 +1,11 @@
-## Hi, there. I am Al Amru Bil Maruf.
-🔭 I’m currently working on scalable video conferencing solutions that support up to 10k participants<br>👯 I’m looking to collaborate on frontend projects in React/NextJS, backend projects in Spring Boot and projects involving Redis, Kafka and WebSockets<br>🌱 I’m currently learning about system architecture  <br><br><br>⚡ Have you ever seen the batman and me in the same room?
+### Hi, there. I am Al Amru Bil Maruf.
+🔭 I’m currently working on scalable video conferencing solutions that support a huge number of participants <br>
+👯 I’m looking to collaborate on frontend projects in <b>React/NextJS</b>, backend projects in <b>Spring Boot</b> and projects involving <b>Redis</b>, <b>Kafka</b> and <b>WebSockets</b> <br>
+🌱 I’m currently learning about system architectures <br>
 
 ---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MortyThePlatypus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mortytheplatypus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mortytheplatypus) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alamrubilmaruf_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mortytheplatypus@gmail.com) 
-
----
-
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack
 ### 🖥️ Programming Languages  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -86,12 +83,17 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)  
 
+<br>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mortytheplatypus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mortytheplatypus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mortytheplatypus&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MortyThePlatypus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mortytheplatypus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mortytheplatypus) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alamrubilmaruf_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mortytheplatypus@gmail.com) 
+
+<br>
+⚡ Have you ever seen the batman and me in the same room?
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
